@@ -34,7 +34,7 @@ while True:
         print(mostrarNome(escolhaPreco))
     else:
         print('Escolha uma opção válida.')
-    continuar = int(input('Deseja continuar? (1-SIM; 2-NÃO) '))
+    continuar = int(input('Deseja continuar? (1-sim; 2-NÃO) '))
     if continuar == 1:
         continue
     else:
